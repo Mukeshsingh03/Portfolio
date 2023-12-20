@@ -1,0 +1,16 @@
+t : top
+e : right
+b : bottom
+s : left
+
+x : left,right 
+y : top,bottom
+
+
+dark blue color code style="color:#184D98;"
+
+para light code style ="#4A4A4A" , light grey bg color style ="#F0F0F0"
+
+letter-spacing: normal;
+
+

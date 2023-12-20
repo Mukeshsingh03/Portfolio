@@ -1,0 +1,5 @@
+#E2E2E2  ( light blue background color )
+
+#211931  ( Dark blue background color )
+
+#AC552A  ( Dark chocolate background color )

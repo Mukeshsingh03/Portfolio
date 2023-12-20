@@ -1,0 +1,86 @@
+ <!--Portfolio section-->
+
+    <section class="services py-5 bg-light" id="portfolio">
+        <div class="container-fluid" style="color: var(--secondary-color);">
+            <div class="text-center my-5">
+                <h1> Portfolio </h1>
+                <p> My Work </p>
+                <hr class="w-25 m-auto" style="background: var(--primary-color);">
+            </div>
+            <div class="row">
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12 ">
+                    <div class="box">
+                        <img src="2iphone.jpg">
+                        <a href="https://mukesh-singh-mehra.github.io/Danip-Technologies/" target="_blank">
+                            <div class="content fw-semibold"> Danip technologies </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="box">
+                        <img src="2olive-post.png">
+                        <a href="olive-post.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="box">
+                        <img src="2MAGAZINE.png">
+                        <a href="MAGAZINE.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <!--1 more row-->
+            <div class="row mb-5">
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12 ">
+                    <div class="box">
+                        <img src="2iphone.jpg">
+                        <a href="https://mukesh-singh-mehra.github.io/Danip-Technologies/" target="_blank">
+                            <div class="content fw-semibold"> Danip technologies </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="box">
+                        <img src="2olive-post.png">
+                        <a href="olive-post.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="box">
+                        <img src="2MAGAZINE.png">
+                        <a href="MAGAZINE.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!--1 more row-->
+            <div class="row">
+                <div class="col-sm-4 col-md-4 col-lg-4 col-4"></div>
+
+                <div class="col-sm-4 col-md-4 col-lg-4 col-4 text-center"><a
+                        href="https://www.behnace.net/mukeshsingh57" target="_blank" class="work-link"> View More </a>
+                </div>
+
+                <div class="col-sm-4 col-md-4 col-lg-4 col-4"></div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--Portfolio section close-->

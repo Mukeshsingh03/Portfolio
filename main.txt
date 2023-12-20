@@ -1,0 +1,162 @@
+ <!--Portfolio section-->
+
+    <section class="services py-5 bg-light" id="portfolio">
+        <div class="container" style="color: var(--secondary-color);">
+            <div class=" text-center my-5">
+                <h1> Portfolio </h1>
+                <p> My Work </p>
+                <hr class="w-25 m-auto" style="background: var(--primary-color);">
+            </div>
+            <div class="row">
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12 ">
+                    <div class="box">
+                        <img src="2iphone.jpg">
+                        <a href="iphone.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="box">
+                        <img src="2olive-post.png">
+                        <a href="olive-post.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="box">
+                        <img src="2MAGAZINE.png">
+                        <a href="MAGAZINE.png" target="_blank">
+                            <div class="content fw-semibold"> Graphic </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4 col-md-4 col-lg-4 col-4"></div>
+
+                <div class="col-sm-4 col-md-4 col-lg-4 col-4 text-center"><a
+                        href="https://www.behnace.net/mukeshsingh57" target="_blank" class="work-link"> View More </a>
+                </div>
+
+                <div class="col-sm-4 col-md-4 col-lg-4 col-4"></div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--Portfolio section close-->
+
+    <!--contact us -->
+
+    <section class="contact py-5" id="contact">
+        <div class="container">
+            <div class=" text-center my-5">
+                <h1> Contact Me </h1>
+                <p> Get in touch </p>
+                <hr class="w-25 m-auto" style="background: var(--primary-color);">
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="card mt-3">
+                        <div class="card-body text-center">
+                            <i class="fa-solid fa-mobile-screen-button fa-2xl p-4 "
+                                style="color:var(--secondary-color)"></i>
+                            <h5 class="card-title">Call Us</h5>
+                            <p class="card-text">+ 91 8700355051 </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12">
+                    <div class="card mt-3">
+                        <div class="card-body text-center">
+                            <i class="fa-regular fa-envelope fa-2xl p-4" style="color:var(--secondary-color)"></i>
+                            <h5 class="card-title"> Email </h5>
+                            <p class="card-text"> ms9975328@gmail.com </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 col-lg-4 col-12 ">
+                    <div class="card mt-3">
+                        <div class="card-body text-center">
+                            <i class="fa fa-location-dot fa-2xl p-4" style="color:var(--secondary-color)"></i>
+                            <h5 class="card-title"> Location </h5>
+                            <p class="card-text"> Delhi - New Delhi</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!--1st row close-->
+
+            <div class="row mt-5">
+
+                <div class="col-sm-12 col-md-3 col-lg-3 col-12"></div>
+
+                <div class="col-sm-12 col-md-6 col-lg-6 col-12 my-5">
+                    <form class="row g-3">
+                        <div class="col-md-6">
+                            <label for="inputfname" class="form-label">Full Name</label>
+                            <input type="fname" class="form-control" id="inputfname">
+                        </div>
+
+                        <div class="col-md-6 ">
+                            <label for="inputEmail4" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="inputEmail4">
+                        </div>
+                        <div class="mb-3 mt-5">
+                            <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+
+                        <div class="col-12">
+                            <button type="button" class="btn btn-outline-danger">Submit
+                                <i class="fa-solid fa-arrow-right" style="color:var(--secondary-color)"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-sm-12 col-md-3 col-lg-3 col-12"></div>
+
+
+            </div>
+            <!--2nd row close-->
+        </div>
+    </section>
+    <!--contact us close-->
+
+    <!--footer-->
+    <section class="footer">
+        <div class="container-fluid"
+            style="background-color: var(--secondary-color); font-family: 'Poppins', sans-serif;">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-12">
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/mehra_0003" target="_blank"><i
+                                class="fa-brands fa-square-facebook"></i> </a>
+                        <a href="https://www.instagram.com/mehra_0003" target="_blank"><i
+                                class="fa-brands fa-square-instagram"></i> </a>
+                        <a href="https://www.behnace.net/mukeshsingh57" target="_blank"><i
+                                class="fa-brands fa-square-behance"></i> </a>
+                        <a href="https://www.youtube.com/@mehra_0003" target="_blank"><i
+                                class="fa-brands fa-youtube"></i>
+                        </a>
+                    </div>
+                    <p class="text-white fw-lighter text-center mt-3">Designed By Mukesh Singh Mehra
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--footer close-->
